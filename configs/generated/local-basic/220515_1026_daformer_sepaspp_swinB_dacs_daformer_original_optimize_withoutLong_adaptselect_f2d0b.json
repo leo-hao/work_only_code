@@ -1,0 +1,6 @@
+{
+    "_base_": "../../myda/dafor_swinB_dacs_daformer_adaptselect.py",
+    "name": "220515_1026_daformer_sepaspp_swinB_dacs_daformer_original_optimize_withoutLong_adaptselect_f2d0b",
+    "work_dir": "work_dirs/local-basic/220515_1026_daformer_sepaspp_swinB_dacs_daformer_original_optimize_withoutLong_adaptselect_f2d0b",
+    "git_rev": ""
+}

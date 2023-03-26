@@ -1,0 +1,6 @@
+{
+    "_base_": "../../daformer/uda_daformer_swinB.py",
+    "name": "220507_1744_uda_daformer_swinB_31510",
+    "work_dir": "work_dirs/local-basic/220507_1744_uda_daformer_swinB_31510",
+    "git_rev": ""
+}

@@ -1,0 +1,6 @@
+{
+    "_base_": "../../myda/dafor_convnextB_src.py",
+    "name": "220516_1830_dafor_convnextB_src_2d20e",
+    "work_dir": "work_dirs/local-basic/220516_1830_dafor_convnextB_src_2d20e",
+    "git_rev": ""
+}

@@ -1,0 +1,1 @@
+在mmcv的框架上，以segformer为主干网络，在cityscapes的验证集上进行实验，其中特征为features，标签为labels，请给出用tsne绘制特征分布图的代码

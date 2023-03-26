@@ -1,0 +1,6 @@
+{
+    "_base_": "../../myda/dafor_swinB_dacs_daformer_adaptselect.py",
+    "name": "220520_1040_daformer_sepaspp_swinB_dacs_softx0.1_7e1f8",
+    "work_dir": "work_dirs/local-basic/220520_1040_daformer_sepaspp_swinB_dacs_softx0.1_7e1f8",
+    "git_rev": ""
+}

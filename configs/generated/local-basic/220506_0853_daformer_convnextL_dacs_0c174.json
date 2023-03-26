@@ -1,0 +1,6 @@
+{
+    "_base_": "../../daformer/uda_daformer_convnextL.py",
+    "name": "220506_0853_daformer_convnextL_dacs_0c174",
+    "work_dir": "work_dirs/local-basic/220506_0853_daformer_convnextL_dacs_0c174",
+    "git_rev": ""
+}
